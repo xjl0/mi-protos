@@ -1,4 +1,4 @@
-module mi-protos
+module github.com/xjl0/mi-protos
 
 go 1.22
 
